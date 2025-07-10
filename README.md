@@ -18,7 +18,7 @@ It captures live video from your webcam, detects all faces in the frame, and dra
 
 ## 🖼️ Demo
 
-<img src="samples/screenshot.jpg" width="500" alt="Face detection demo screenshot">
+<img src="samples/screenshot.png" width="500" alt="Face detection demo screenshot">
 
 ---
 
